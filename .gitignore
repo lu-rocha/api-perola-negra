@@ -1,0 +1,32 @@
+# Arquivos de bytecode
+*.pyc
+*.pyo
+*.pyi
+
+# Arquivos de cache do pip
+__pycache__
+
+# Diretório de ambiente virtual
+venv/
+.venv
+
+# Arquivos de configuração de IDE
+*.pycharm
+*.vscode
+
+# Arquivos de logs
+*.log
+logs/
+
+# Arquivos de banco de dados
+*.sqlite
+*.db
+
+# Diretórios de arquivos temporários
+temp/
+tmp/
+
+# Arquivos grandes
+*.tar.gz
+*.zip
+*.rar
